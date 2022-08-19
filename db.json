@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "email": "miguel@mail.com",
+      "password": "$2a$10$.GwrqNFfAxdNtS/UEj3ZM.QNLJFWpQlySeWO4fEiwAyEJjINBNFdO",
+      "name": "Brunno",
+      "id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Styled-components",
+      "description": "Estudar styled-components meia hora por dia",
+      "userId": 1,
+      "completed": true,
+      "id": 1
+    }
+  ],
+  "products": [],
+  "comments": []
+}
